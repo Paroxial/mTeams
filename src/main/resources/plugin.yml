@@ -1,0 +1,5 @@
+name: Raid
+main: com.pvpraids.raid.RaidPlugin
+version: 1.337
+depend: [Core, CoreProtect, ProtocolLib, rAdmin]
+authors: [Paroxial, Lacota]
